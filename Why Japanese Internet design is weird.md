@@ -13,7 +13,7 @@ attachment: true
 dataview: true
 share: true
 date created: 2023-09-19 10:53:17
-date modified: 2024-10-08 06:19:38
+date modified: 2024-10-31 08:41:27
 ---
 ## Notes
 - statistical method - dimensionality reduction used to group website screenshots(T-SNE)
